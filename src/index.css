@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: Consolas, monaco, monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.cardheight {
+  height: auto;
+}
